@@ -6,11 +6,11 @@
 * git config --global user.email ваша_почта@example.com
 * Git init - создает новый репозиторий.
 * Git status - показывает текущий статус.
-* Git add -m "любое сообщение" - записать коммит с любым сообщением.
+* Git commit -m "любое сообщение" - записать коммит с любым сообщением.
 * Git checkout - используется для перемещения между коммитами.
 * Git log - история коммитов.
 * Git diff - показать изменения между коммитами.
-
+* Git add - добавление файлов.
 
 #### _Необходимое ПО._
 _Для начала потребуется установить клиент_  [Git](https://git-scm.com/downloads) и [Visual Studio Code](https://code.visualstudio.com/)
