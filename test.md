@@ -1,7 +1,7 @@
-# Инструкция по работе с Git.
+# _Инструкция по работе с Git._
 ***
 
-#### Основные команды Git
+#### _Основные команды Git:_
 * git config --global user.name «Ваше имя англ буквами»
 * git config --global user.email ваша_почта@example.com
 * Git init - создает новый репозиторий.
@@ -10,7 +10,10 @@
 * Git checkout - используется для перемещения между коммитами.
 * Git log - история коммитов.
 * Git diff - показать изменения между коммитами.
-***
 
-# Необходимое ПО.
-Для начала потребуется установить клиент  [Git](https://git-scm.com/downloads) и [Visual Studio Code](https://code.visualstudio.com/)
+
+#### _Необходимое ПО._
+_Для начала потребуется установить клиент_  [Git](https://git-scm.com/downloads) и [Visual Studio Code](https://code.visualstudio.com/)
+
+### _Создание локального репозитория._
+1. _Создаем папку на рабочем столе._
