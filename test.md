@@ -15,8 +15,7 @@
 * Git add - добавление файлов.
 
 > ## _Необходимое ПО._
-
-_Для начала потребуется установить клиент_  [Git](https://git-scm.com/downloads) и [Visual Studio Code](https://code.visualstudio.com/)
+>>_Для начала потребуется установить клиент_  [Git](https://git-scm.com/downloads) и [Visual Studio Code](https://code.visualstudio.com/)
 
 > ## _Работаем с кодом и создаем репозиторий._
 
@@ -52,8 +51,8 @@ _Для начала потребуется установить клиент_  
 >>Вставить картинку можно просто прописав команду:
 **< img src="здесь хранится ваш адрес картинки" width="200"/ >** 
 
-
+------
 ### _[Видео Git и GitHub Курс Для Новичков](https://www.youtube.com/watch?v=zZBiln_2FhM&t=1032s&ab_channel=%D0%92%D0%BB%D0%B0%D0%B4%D0%B8%D0%BB%D0%B5%D0%BD%D0%9C%D0%B8%D0%BD%D0%B8%D0%BD)_
-
+------
 ### _[Шпаргалка](https://training.github.com/downloads/ru/github-git-cheat-sheet/)_
-
+------
